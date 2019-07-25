@@ -19,7 +19,7 @@ var friends = [
       //[6,7,3,4,2,1] - CurrentFriendScores
       {
         "name":"Jade",
-        "photo":"https://placekitten.com/200/287",
+        "photo":"https://placekitten.com/96/140",
         "scores":[
             4,
             2,
@@ -34,8 +34,8 @@ var friends = [
           ]
       },
       {
-  "name":"Wilma",
-  "photo":"https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/15442150_1143260969076325_3754833395150067265_n.jpg?_nc_cat=106&_nc_oc=AQn2SP77BjSioJdRuszULG5wyfyBqtF2pYz9MbsoJb9YSMl5sYqkjhDELxudbywz608&_nc_ht=scontent-sjc3-1.xx&oh=e3901652f25c17bcf3ec7556d5ef1391&oe=5DA084B2",
+  "name":"Penny",
+  "photo":"https://placekitten.com/96/139",
   "scores":[
       1,
       1,
@@ -67,7 +67,7 @@ var friends = [
   },
   {
     "name":"Barbara",
-    "photo":"https://placekitten.com/96/140",
+    "photo":"https://placekitten.com/200/139",
     "scores":[
         4,
         4,
@@ -83,7 +83,7 @@ var friends = [
   },
   {
     "name":"Jack",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/064/1bd/3435aa3.jpg",
     "scores":[
         1,
         4,
@@ -99,7 +99,7 @@ var friends = [
   },
   {
     "name":"Pete",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "https://envato-shoebox-0.imgix.net/b16a/5c4a-aee6-11e3-9936-b8ca3a6774f8/2013_268_022_0810_E1.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=e62398e29ef912afbf3f89f82b9c9446",
     "scores":[
         5,
         5,

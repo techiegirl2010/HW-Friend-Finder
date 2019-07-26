@@ -6,7 +6,7 @@ module.exports = function (app) {
     })
     app.post("/api/friends", function(req,res){
         //calculate the best match
-        //send back the besh match info
+        //send back the best match info
         var bestMatch = {
             name: "",
             photo: "",

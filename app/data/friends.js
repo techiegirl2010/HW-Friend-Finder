@@ -15,8 +15,7 @@ var friends = [
             1
           ]
       },
-      //[5,6,7,3,2,4] -currentUserScores
-      //[6,7,3,4,2,1] - CurrentFriendScores
+     
       {
         "name":"Jade",
         "photo":"https://placekitten.com/96/140",

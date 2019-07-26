@@ -98,7 +98,7 @@ var friends = [
   },
   {
     "name":"Pete",
-    "https://envato-shoebox-0.imgix.net/b16a/5c4a-aee6-11e3-9936-b8ca3a6774f8/2013_268_022_0810_E1.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=e62398e29ef912afbf3f89f82b9c9446",
+    "photo":"https://envato-shoebox-0.imgix.net/b16a/5c4a-aee6-11e3-9936-b8ca3a6774f8/2013_268_022_0810_E1.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=e62398e29ef912afbf3f89f82b9c9446",
     "scores":[
         5,
         5,
